@@ -136,9 +136,7 @@ When I’m not working with data, you’ll probably find me on a **tennis court 
 
 ## 📫 Connect
 
-* 🌐 GitHub: [https://github.com/Shravani018](https://github.com/Shravani018)
 * 📧 Email: [mahadeshwarshravani18@gmail.com](mailto:mahadeshwarshravani18@gmail.com)
-* 💼 LinkedIn: *(add link)*
 
 ---
 
