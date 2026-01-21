@@ -1,21 +1,21 @@
 ## 👋 About Me
 
 🎓 Master’s student in Applied Data Science at Frankfurt School of Finance & Management  
-🏫 Bachelor’s in Data Science & Business Analytics    
-🔢 Interested in data science opportunities at the intersection of finance and technology
+🏫 Bachelor’s in Data Science & Business Analytics  
+🔢 Interested in data science at the intersection of finance and technology  
 🤖 Exploring machine learning, NLP, analytics, and automation  
 🧠 Particularly curious about Explainable AI and Ethical AI  
-🎾 Outside of data, I enjoy playing and watching tennis. 
+🎾 Outside of data, I enjoy playing and watching tennis  
 
 ## 📚 Currently Learning
 
 - Explainable AI techniques and model interpretability  
-- Ethical AI and responsible use of data-driven systems
-- SAP Analytics Cloud
+- Ethical AI and responsible use of data-driven systems  
+- SAP Analytics Cloud  
 
 ## 🖥️ Tech Stack
 
-### 🧑‍💻 Programming 
+### 🧑‍💻 Programming
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
