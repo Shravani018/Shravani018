@@ -4,14 +4,14 @@
 🏫 Bachelor’s in Data Science & Business Analytics  
 🔢 Interested in data science at the intersection of finance and technology  
 🤖 Exploring machine learning, NLP, analytics, and automation  
-🧠 Particularly curious about Explainable AI and Ethical AI  
+🧠 Particularly curious about Ethical and Explainable AI  
 🎾 Outside of data, I enjoy playing and watching tennis  
 
 ## 📚 Currently Learning
 
-- Explainable AI techniques and model interpretability  
-- Ethical AI and responsible use of data-driven systems  
-- SAP Analytics Cloud  
+- Learning and applying explainability techniques (SHAP, LIME) to interpret ML models  
+- Studying ethical AI concepts, including bias, fairness, and responsible data use  
+- Gaining hands-on experience with SAP Analytics Cloud for business analytics 
 
 ## 🖥️ Tech Stack
 
@@ -97,7 +97,7 @@
 
 ## 💼 Industry Snapshot
 
-- Worked on **data science and business intelligence** use cases within financial services  
+- Contributed to **data science and business intelligence** use cases in financial services
 - Optimized **KYC workflows** using OCR and image validation techniques  
 - Built **interactive BI dashboards** to support business and executive decision-making  
 - Automated reporting and communication pipelines, reducing manual effort by 70%+  
