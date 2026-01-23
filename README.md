@@ -2,9 +2,7 @@
 
 🎓 Master’s student in Applied Data Science at Frankfurt School of Finance & Management  
 🏫 Bachelor’s in Data Science & Business Analytics  
-🔢 Interested in data science at the intersection of finance and technology  
 🤖 Exploring machine learning, NLP, analytics, and automation  
-🧠 Particularly curious about Ethical and Explainable AI  
 🎾 Outside of data, I enjoy playing and watching tennis  
 
 ## 🔍 Current Focus
