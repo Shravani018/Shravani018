@@ -7,7 +7,7 @@
 🧠 Particularly curious about Ethical and Explainable AI  
 🎾 Outside of data, I enjoy playing and watching tennis  
 
-## 📚 Currently Learning
+## 🔍 Current Focus
 
 - Learning and applying explainability techniques (SHAP, LIME) to interpret ML models  
 - Studying ethical AI concepts, including bias, fairness, and responsible data use  
