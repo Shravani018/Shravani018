@@ -30,8 +30,8 @@ Researching explainable AI and model interpretability frameworks, particularly S
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
----
-📫 Let's Connect
+
+## 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:shravani._@outlook.com)
 
