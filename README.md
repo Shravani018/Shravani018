@@ -1,8 +1,10 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Shravani 
+
 Master's student in Applied Data Science at **Frankfurt School of Finance & Management**.
 With one year of experience as a Data Scientist in fintech, I have worked across automation, analytics, and machine learning. My work involved building automation pipelines and executive dashboards, as well as developing ML-driven solutions such as OCR-based KYC workflows, market sentiment analysis, and customer segmentation models.
 
 ## 🔍 Current Focus
+
 Researching explainable AI and model interpretability frameworks, with an emphasis on fairness-aware approaches for building transparent ML systems in regulated financial environments.
 
 ## 🖥️ Tech Stack
